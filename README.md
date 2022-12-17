@@ -1,5 +1,7 @@
 ### 개발을 좋아하는 개발자, 박도준의 깃허브에 오신 것을 환영합니다. 👋
 
+![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
+
 <!--
 **dojuun2/dojuun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
