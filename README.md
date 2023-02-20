@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <br>
   <br>
-  <br>
 </div>
 
 <h2 align="center">- Tools -</h2>
