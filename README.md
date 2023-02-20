@@ -12,7 +12,7 @@
 
 <h2 align="center">- Skills -</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-0769AD?style=for-the-badge&logo=Java&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Java-0769AD?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <br>
   <br>
