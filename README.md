@@ -1,6 +1,4 @@
-<div align="center">
-  ### 박도준의 깃허브에 오신 것을 환영합니다. 👋
-</div>
+<h1 align="center">박도준의 깃허브에 오신 것을 환영합니다. 👋</h1>
 <br>
 
 ![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
