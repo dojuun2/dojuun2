@@ -1,7 +1,12 @@
 ### 박도준의 깃허브에 오신 것을 환영합니다. 👋
+<br>
+<br>
 
-
-![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
+<div align="center">
+  ![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
+  <br>
+  <br>
+</div>
 
 <h2 align="center">- Skills -</h2>
 <div align="center">
@@ -20,3 +25,7 @@
   <br>
   <br>
 </div>
+
+<h2 align="center">- Channel -</h2>
+<div align="center" >
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:olivia258@naver.com)](https://blog.naver.com/dojuun2)</div>
