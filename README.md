@@ -3,7 +3,7 @@
 
 ![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
 
-<h2 align="center">⋆ Back-end Tech Stack ⋆</h2>
+<h2 align="center">- Skills -</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=Java&logoColor=white"/><br>
