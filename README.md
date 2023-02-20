@@ -2,11 +2,9 @@
 <br>
 <br>
 
-<div align="center">
-  ![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
-  <br>
-  <br>
-</div>
+![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=radical)
+<br>
+<br>
 
 <h2 align="center">- Skills -</h2>
 <div align="center">
@@ -28,4 +26,5 @@
 
 <h2 align="center">- Channel -</h2>
 <div align="center" >
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:olivia258@naver.com)](https://blog.naver.com/dojuun2)</div>
+   <a href="https://blog.naver.com/dojuun2"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp </a>
+</div>
