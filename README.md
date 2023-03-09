@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=transparent)
+  ![Dojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dojuun2&show_icons=true&theme=gruvbox)
 
 </div>
 <br>
