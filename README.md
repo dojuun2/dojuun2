@@ -9,7 +9,7 @@
 </div> -->
 
 
-<p align="center">- Skills -</p>
+<h4 align="center">- Skills -</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-0769AD?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -30,7 +30,7 @@
   <br>
 </div>
 
-<p align="center">- Tools -</p>
+<h4 align="center">- Tools -</h4>
 <div align="center" >
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
@@ -40,7 +40,7 @@
   <br>
 </div>
 
-<p align="center">- Channel -</p>
+<h4 align="center">- Channel -</h4>
 <div align="center" >
    <a href="https://blog.naver.com/dojuun2"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp </a>
 </div>
