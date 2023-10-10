@@ -42,5 +42,5 @@
 
 <h4 align="center">- Channel -</h4>
 <div align="center" >
-   <a href="https://blog.naver.com/dojuun2"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp </a>
+  <a href="https://dojuun2.tistory.com"><img src="https://img.shields.io/badge/Blog-E34F26?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </div>
